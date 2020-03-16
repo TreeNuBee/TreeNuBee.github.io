@@ -1,9 +1,10 @@
 ## Welcome to GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/TreeNuBee/VR/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
+Cater's Lake Museum VR Project
+<video src="video.mp4" width="320" height="200" controls preload>
+  <iframe src="https://drive.google.com/file/d/15sy_TJdVt4TdHM9A1EO3V3ogkxCzWFgu/preview" width="640" height="480"></iframe>
+  </video>
+  
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
@@ -17,9 +18,7 @@ Syntax highlighted code block
 
 - Bulleted
 - List
-<video src="video.mp4" width="320" height="200" controls preload>
-  <iframe src="https://drive.google.com/file/d/15sy_TJdVt4TdHM9A1EO3V3ogkxCzWFgu/preview" width="640" height="480"></iframe>
-  </video>
+
 1. Numbered
 2. List
 
