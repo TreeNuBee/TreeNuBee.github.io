@@ -2,10 +2,10 @@
 
 Cater's Lake Museum VR Project
 
-<iframe src="https://drive.google.com/file/d/15sy_TJdVt4TdHM9A1EO3V3ogkxCzWFgu/preview" width="640" height="480"></iframe>
+<iframe src="https://drive.google.com/file/d/15sy_TJdVt4TdHM9A1EO3V3ogkxCzWFgu/preview" width="393" height="205" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 Parkinson's Simulation
-<iframe width="640" height="480" src="https://www.youtube.com/embed/AVuxIABaVuM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="393" height="205" src="https://www.youtube.com/embed/AVuxIABaVuM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
