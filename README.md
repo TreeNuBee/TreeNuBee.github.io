@@ -23,4 +23,4 @@ Enlightenment is a 3D puzzle game that has the player directing a beam of light,
 
 Please contact [Dr. Joy Li](mailto:joy.li@ieee.org) if you are interested in collaboration.
 
-© Kennesaw State University.  All rights reserved.
+©Kennesaw State University.  All rights reserved.
