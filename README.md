@@ -15,7 +15,7 @@ The purpose of this project is to utilize the presence and immerse of virtual re
 
 # Lights Reflection and Refraction "Enlightenment" 3D Game Project
 
-Enlightenment is a 3D puzzle game that has the player directing a beam of light, using mirrors and reflective objects, through a maze-like level to advance through the game while learning about light and the way it interacts with different surfaces and materials.
+Enlightenment is a 3D puzzle game that has the player directing a beam of light, using mirrors and reflective objects, through a maze-like level to advance through the game while learning about light and the way it interacts with different surfaces and materials.  This is an educational game that targets elementary school students.
 
 <iframe width="506" height="379" src="https://www.youtube.com/embed/38XQOnogMjc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
